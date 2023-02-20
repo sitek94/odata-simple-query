@@ -1,5 +1,5 @@
 ---
-'odata-query-builder': patch
+'odata-simple-query': patch
 ---
 
 Added the add function for testing purposes
